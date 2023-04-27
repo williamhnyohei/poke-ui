@@ -1,5 +1,7 @@
 # poke-ui
 
+Pokemon themed user interface
+
 ## Project setup
 ```
 npm install
